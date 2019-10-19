@@ -8,9 +8,9 @@ This project follows the framework provided by a Kaggle competition from Google 
 
 ## Contents of Repository
 
-[taxiFare.20190312_final_copy.ipynb](taxiFare.20190312_final_copy.ipynb): Main jupyter notebook with our analysis . 
-[img](img/): Folder with supplementary images  
-[archive](archive/): Folder with previous versions of jupyter notebook with our analysis . 
+[taxiFare.20190312_final_copy.ipynb](taxiFare.20190312_final_copy.ipynb): Main jupyter notebook with our analysis   
+[img](img/): Folder with supplementary images    
+[archive](archive/): Folder with previous versions of jupyter notebook with our analysis   
 
 ## Project Structure
 
