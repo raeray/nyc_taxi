@@ -25,5 +25,5 @@ The notebook [taxiFare.20190312_final_copy.ipynb](taxiFare.20190312_final_copy.i
 
 ## Authors
 
-Mirae Kim
-Kostantinos 
+Mirae Kim  
+Konstantinos Petropoulos  
